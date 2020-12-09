@@ -1,0 +1,10 @@
+aiofiles
+dask[dataframe]
+fastapi
+loguru
+sqlalchemy
+streamlit
+streamlit_folium
+tqdm
+uvicorn
+git+https://github.com/python-visualization/folium.git
